@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-nimstopwatch-master.flake = false;
+  inputs.src-nimstopwatch-master.ref   = "refs/heads/master";
   inputs.src-nimstopwatch-master.owner = "twist-vector";
-  inputs.src-nimstopwatch-master.ref   = "master";
   inputs.src-nimstopwatch-master.repo  = "nim-stopwatch.git";
   inputs.src-nimstopwatch-master.type  = "github";
   
