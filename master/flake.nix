@@ -11,6 +11,7 @@
   inputs.src-nimstopwatch-master.ref   = "refs/heads/master";
   inputs.src-nimstopwatch-master.owner = "twist-vector";
   inputs.src-nimstopwatch-master.repo  = "nim-stopwatch";
+  inputs.src-nimstopwatch-master.dir   = "";
   inputs.src-nimstopwatch-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
