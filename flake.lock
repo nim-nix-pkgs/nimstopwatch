@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334672,
-        "narHash": "sha256-B5vrErqZyzTUOzeC7Wc6yNcmr+r7rItKzPw/MPBx2HM=",
+        "lastModified": 1668748937,
+        "narHash": "sha256-e1mHl+3iLWnLdLB0WsDaOqJnad1IsJ4MNQQkZccLCcg=",
         "owner": "nim-nix-pkgs",
         "repo": "nimstopwatch",
-        "rev": "83dfe206696bb976a23147ff4c5a58181d699ecc",
+        "rev": "998116e0369cda6ff5cfd942105bd9b10906759c",
         "type": "github"
       },
       "original": {
